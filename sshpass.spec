@@ -3,7 +3,7 @@ Version: 1.05
 Release: 1
 Source0: http://switch.dl.sourceforge.net/project/sshpass/sshpass/%{version}/sshpass-%{version}.tar.gz
 Summary: Tool for non-interactively performing ssh password authentication
-URL: http://sshpass.sf.net/
+URL: https://sshpass.sf.net/
 License: GPL
 Group: System/Base
 
