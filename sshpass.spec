@@ -7,6 +7,11 @@ URL: https://sshpass.sf.net/
 License: GPL
 Group: System/Base
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Tool for non-interactively performing ssh password authentication
 
